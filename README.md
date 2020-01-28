@@ -1,5 +1,5 @@
 # jerry-mendoza
 
-Hello world!
+Hello all!
 
 I am Jerry Mendoza
