@@ -4,12 +4,10 @@
 <title>Page Title</title>
 </head>
 <body>
+<p><a href="Portfolio.html">Portfolio</a></p>
 
 <h1>Portfolio</h1>
 <p>this is who i am.</p>
-
-<h2>HTML Links</h2>
-<p><a href="Portfolio.html">Portfolio</a></p>
 
 </body>
 </html>
