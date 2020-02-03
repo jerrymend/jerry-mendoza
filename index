@@ -1,10 +1,9 @@
 <section>
-  <nav> 
+  <nav>
     <ul>
-      <p><a href="Home.html">Home</a></p>
-      <p><a href="Portfolio.html">Portfolio</a></p>
-      <p><a href="About Me.html">About Me</a></p>
-      <p><a href="Contact Me.html">Contact Me</a></p>
-
-</ul>
-</nav>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Portfolio</a></li>
+      <li><a href="#">About me</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
