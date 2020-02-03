@@ -3,9 +3,9 @@
 <section>
   <nav>
     <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">Portfolio</a></li>
-      <li><a href="#">About me</a></li>
-      <li><a href="#">Contact</a></li>
+      <li><a href="home.html">Home</a></li>
+      <li><a href="Portfolio.html">Portfolio</a></li>
+      <li><a href="About me.html">About me</a></li>
+      <li><a href="Contact Me.html">Contact</a></li>
     </ul>
   </nav>
