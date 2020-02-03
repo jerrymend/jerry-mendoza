@@ -1,3 +1,3 @@
-layout: page
-title: "Portfolio" 
-permalink: /URL-PATH/
+theme: jekyll-theme-merlot
+title: Portfolio
+description: This is my portfolio page
