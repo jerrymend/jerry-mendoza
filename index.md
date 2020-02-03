@@ -1,8 +1,3 @@
-<style>
-p {
- text-align:center
-}
-</style>
 <section>
   <nav>
     <ul>
